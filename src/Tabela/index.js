@@ -1,5 +1,5 @@
 import React from "react";
-
+// criando a tabela passando os dados
 const Tabela = ({dados}) => {
     const keys = Object.keys(dados[0])
     return (
